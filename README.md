@@ -35,17 +35,13 @@ Here are some ideas to get you started:
 <!--
 ![logo](png url)-->
 <h1 align="center">Hi 👋, I'm Dhiman Nayak</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<!-- <h3 align="center">A passionate programmer from India</h3> -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" height="250px" width="300px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiman-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="dhiman-nayak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhimannayak03" target="blank"><img src="https://img.shields.io/twitter/follow/dhimannayak03?logo=twitter&style=for-the-badge" alt="dhimannayak03" /></a> </p>
 
-- 🌱 I’m currently learning **NODEJS**
 
-- 💬 Ask me about **HTML, CSS, JS, NODEJS**
-
-- 📫 How to reach me **nayakdhiman3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
